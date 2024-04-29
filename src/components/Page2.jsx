@@ -4,7 +4,7 @@ const Page2 = () => {
 
     const googleCalendarUrl = "https://calendar.google.com/calendar/u/0/r/eventedit/MWswMHZwZ2Rjc3UybDZoMWI2YXV0bGt1YXAgbWljYWFzYXZvb0Bt?pli=1";
 
-    const targetDate = new Date('2024-09-23T23:59:59').getTime();
+    const targetDate = new Date('2024-05-23T23:59:59').getTime();
     const [timeRemaining, setTimeRemaining] = useState(calculateTimeRemaining());
   
     function calculateTimeRemaining() {
