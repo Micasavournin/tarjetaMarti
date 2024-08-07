@@ -20,7 +20,7 @@ const Playlist = () => {
             <div className="botonMusica" style={{ position: 'absolute', top: '6%', left: '89%', transform: 'translate(-50%, -50%)' }}>
 
                 <audio
-        src="https://firebasestorage.googleapis.com/v0/b/tarjeta-invitacion-2f4f0.appspot.com/o/Robin%20Schulz%2C%20Rita%20Ora%20%26%20Tiago%20PZK%20-%20Ill%20Be%20There%20(Jarel%20Gomes%20Piano).mp3?alt=media&token=2aa7f5ce-3f43-460b-8860-3b501cc1a83c"
+        src="https://firebasestorage.googleapis.com/v0/b/tarjeta-invitacion-2f4f0.appspot.com/o/Robin%20Schulz%20ft.%20Rita%20Ora%20ft.%20Tiago%20PZK%20-%20Ill%20Be%20There%20(Instrumental).mp3?alt=media&token=7792fd20-922b-4fc7-80a3-ce20a0dca4f6"
         ref={audioRef}
         preload="metadata"
       />
